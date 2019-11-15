@@ -4,8 +4,7 @@
 We started out in early 2019 as a series of happy hours and will expand into other types of events soon (e.g., interviews).
 
 ### News
-**Sep 26, 2019**: We are skipping the September Happy Hour and planning a come back in October with a slightly modified format.
-Stay tuned for updates.
+**Nov 15, 2019**: Stay tuned for a holiday-themed happy hour on Dec 3rd, 2019!
 
 ### Join
 - For future events: [sign up for mailing list](https://cornell.us20.list-manage.com/subscribe?u=d4c35ded7da7d25c0de003417&id=01814a0295).
@@ -16,3 +15,7 @@ Stay tuned for updates.
 - [Taylor Brown](http://www.taylorwhittenbrown.com/): PhD Candidate in Sociology, Duke
 - [George Berry](https://twitter.com/george_berry): PhD Candidate in Sociology, Cornell
 
+### Previously
+
+- 2019/10/29, Phebe's, Theme: spooky and scary datasets
+- ...

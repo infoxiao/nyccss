@@ -4,7 +4,7 @@
 We started out in early 2019 as a series of happy hours and will expand into other types of events soon (e.g., interviews).
 
 ### News
-**Nov 15, 2019**: Stay tuned for a holiday-themed happy hour on Dec 3rd, 2019!
+**Nov 23, 2019**: Holiday edition happy hour on Dec 3rd, 2019, 6:30-9pm @ The Standard Biergarten! Tell us about the things and achivements you want to celebrate 🎉🥳!
 
 ### Join
 - For future events: [sign up for mailing list](https://cornell.us20.list-manage.com/subscribe?u=d4c35ded7da7d25c0de003417&id=01814a0295).
@@ -18,4 +18,8 @@ We started out in early 2019 as a series of happy hours and will expand into oth
 ### Previously
 
 - 2019/10/29, Phebe's, Theme: spooky and scary datasets
-- ...
+- 2019/07/14, Gallow green
+- 2019/06/06, B Bar
+- 2019/05/19, Fine Time
+- 2019/04/21, Randolph Beer WBURG
+- 2019/03/31, Kings County Brewers Collective

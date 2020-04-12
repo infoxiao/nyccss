@@ -4,7 +4,7 @@
 We started out in early 2019 as a series of happy hours and will expand into other types of events soon (e.g., interviews).
 
 ### News
-**April 12, 2020***: We invite you to join a special edition of virtual happy hour focusing on COVID-19 and misinformation. Please [RSVP for us to pick a time here](https://forms.gle/iCAY8q5S3zcMX6hL9).
+**April 12, 2020**: We invite you to join a special edition of virtual happy hour focusing on COVID-19 and misinformation. Please [RSVP for us to pick a time here](https://forms.gle/iCAY8q5S3zcMX6hL9).
 
 **Jan 16, 2020**: The next happy hour is on Tue, Jan 21, at McSorley's Old Ale House. Details and RSVP [here](https://mailchi.mp/52e0901394c5/nyccss20200121).
 

@@ -20,6 +20,7 @@ We started out in early 2019 as a series of happy hours and will expand into oth
 - [George Berry](https://twitter.com/george_berry): PhD Candidate in Sociology, Cornell
 
 ### Previously
+- 2020/04/30: Oneline, Theme: COVID-19 and misinformation.
 - 2020/02/25: The Headless Widow, Theme: How can we be good theorists?
 - 2020/01/16: McSorley's Old Ale House, Theme: 2020 personal goals within CSS
 - 2019/12/03, The Standard Grill, Theme: Things you want to celebrate this year
